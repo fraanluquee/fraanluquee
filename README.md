@@ -1,15 +1,9 @@
 <body>
     <h3>I´m Fran 👋</h3>
 
-
-
 ---
 ### ABOUT ME :
 
-- 🔭 Working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about ...
 - 📫 How to reach me: franpluque2002@gmail.com
 <h3>Lenguages and Tools:  </h3>
 <div align="left ">
