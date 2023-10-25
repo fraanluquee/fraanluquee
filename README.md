@@ -7,13 +7,13 @@
 ### Lenguages and Tools
 
 
-![text][html5]
-![text][docker]
-![text][php]
-![text][python]
-![text][mysql]
-![text][php]
-![text][linux]
+![alt text][html5]
+![alt text][docker]
+![alt text][php]
+![alt text][python]
+![alt text][mysql]
+![alt text][php]
+![alt text][linux]
 
 [html5]: https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg
 [docker]: https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
