@@ -3,24 +3,18 @@
 
 ### ABOUT ME :
 
-- 📫 How to reach me: franpluque2002@gmail.com
+  - 📫 How to reach me: franpluque2002@gmail.com
 ### Lenguages and Tools
 
 
-![alt text][html5]
-![alt text][docker]
-![alt text][php]
-![alt text][python]
-![alt text][mysql]
-![alt text][php]
-![alt text][linux]
 
-[html5]: https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg
-[docker]: https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
-[php]:https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg
-[python]:https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
-[mysql]:https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg
-[linux]:https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="48" height="48">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="48" height="48">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="48" height="48">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48">
+
 
 
 
