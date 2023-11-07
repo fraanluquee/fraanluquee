@@ -5,15 +5,11 @@
 
 <div align=center >
     <a href="https://linkedin.com/in/fraanluquee" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin: 5px;" />
-    </a>
+    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin: 5px;" /></a>
     <a href="https://twitter.com/fraan__luquee" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin: 5px;" />
-    </a>
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin: 5px;" /></a>
     <a href="https://instagram.com/fraanluquee" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin: 5px;" />
-    </a>
-
+    <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin: 5px;" /></a>
 </div>
 <div align=left>
     <br>
