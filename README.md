@@ -1,12 +1,9 @@
-<div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p></p>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Fran+%F0%9F%91%8B;DevOps;Cibersecurity+Student" alt="Headline" />
 
+
+![alt text](./banner.png "Logo Title Text 1")
 ---
 
-<div>
+<div align=center >
     <a href="https://linkedin.com/in/fraanluquee" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin: 5px;" />
     </a>
@@ -16,15 +13,15 @@
     <a href="https://instagram.com/fraanluquee" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin: 5px;" />
     </a>
+
 </div>
 <div align=left>
     <br>
     <p>
-        <strong>
-            Apasionado de la informática, estudiando ciberseguridad.<br><br>
-            Me especializo en administración de sistemas informáticos. Bueno en algoritmos, Sistemas de Bases de Datos, habilidades para resolver problemas.
-            Me apasiona aprender, todas las tecnologías me interesan. Familiarizado con Linux, virtualización, NGINX,  Docker entre otros..<br><br>Responsable y comprometido, con espíritu de hacer las cosas a tiempo. Persona emprendedora, que aprende rápido, automotivada y sociable. Open to talk in english
-        </strong>
+
+Apasionado de la informática, estudiando ciberseguridad.<br><br>
+Me especializo en administración de sistemas informáticos. Bueno en algoritmos, Sistemas de Bases de Datos, habilidades para resolver problemas.
+Me apasiona aprender, todas las tecnologías me interesan. Familiarizado con Linux, virtualización, NGINX,  Docker entre otros..<br><br>Responsable y comprometido, con espíritu de hacer las cosas a tiempo. Persona emprendedora, que aprende rápido, automotivada y sociable. Open to talk in english
     </p>
     <ul>
         <li>🌱 <b>Estudios actuales</b>: Ciberseguridad</li>
@@ -38,14 +35,6 @@
     </ul>
 </div>
 <div align=center>
-    <h1> Activity</h1>
+    <h1>GitHub Stats</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=fraanluquee&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraanluquee&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-    <br>
-    <br>
 </div>
-
-</div>
-
----
